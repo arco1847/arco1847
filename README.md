@@ -1,8 +1,8 @@
-👋 Hi, I’m @arco1847
-👀 I’m interested in Machine Learning and full-stack development.
-🌱 I’m currently learning advanced network configuration (CCNA) and scalable backend development with Node.js/Express.
-💞️ I’m looking to collaborate on machine learning projects or open-source healthcare application sectors.
-📫 How to reach me: LinkedIn | parco201410@bscse.uiu.ac.bd
+-👋 Hi, I’m @arco1847
+-👀 I’m interested in Machine Learning and full-stack development.
+-🌱 I’m currently learning advanced network configuration (CCNA) and scalable backend development with Node.js/Express.
+-💞️ I’m looking to collaborate on machine learning projects or open-source healthcare application sectors.
+-📫 How to reach me: LinkedIn | parco201410@bscse.uiu.ac.bd
 
 ⚡ Fun fact: I’ve solved 400+ problems across Codeforces, LeetCode, HackerRank, and CodeChef!
 
