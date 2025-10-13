@@ -1,4 +1,4 @@
-👋 Hi, I’m @arco1847  
+👋 Hi, I’m Protap Additto  
 👀 I’m interested in Machine Learning, LLM integrated projects and Full-Stack Development.  
 🌱 I’m currently learning advanced network configuration (CCNA) and scalable backend development with Node.js/Express.  
 💞️ I’m looking to collaborate on machine learning projects or open-source LLM-based healthcare application sectors.  
