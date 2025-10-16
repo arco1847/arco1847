@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on machine learning projects or open-source LLM-based healthcare application sectors.  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arco1847) | parco201410@bscse.uiu.ac.bd | arcodatta1847@gmail.com
 
-⚡ Fun fact: I’ve solved 400+ problems across Codeforces, LeetCode, HackerRank, and CodeChef!
+⚡ Fun fact: I’ve solved 400+ problems which includes DSA,  across Codeforces, LeetCode, HackerRank, and CodeChef!
 
 <!---
 arco1847/arco1847 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
